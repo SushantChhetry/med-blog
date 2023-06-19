@@ -4,3 +4,14 @@ Search input for additional features
 
 Pagination for multiple pages
 
+Tags for articles
+
+Pictures for articles
+
+Likes for articles
+
+Merchendaise Shop
+
+Newsletter Signup
+
+Comment section
